@@ -10,6 +10,17 @@ section > p {
     font-size: 1.8em;
 }
 
+section.imagem {
+    height: 650px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+section.imagem > p {
+    width: 380px;
+}
+
 footer {
     font-size: 16px;
     padding: 7px;
