@@ -1,5 +1,9 @@
 header > h1 {
-    font-size: 4.8em;
+    font-size: 5em;
+}
+
+header > p {
+    font-size: 15px;
 }
 
 section > p {
