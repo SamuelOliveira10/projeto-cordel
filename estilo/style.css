@@ -49,6 +49,10 @@ section > p {
 
 section.imagem {
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0 ,0, 0.473);
+    height: 650px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 section.imagem > p {
@@ -57,6 +61,7 @@ section.imagem > p {
     display: inline-block;
     padding: 5px;
     color: white;
+    width: 380px;
 }
 
 section.imagem#img1 {
