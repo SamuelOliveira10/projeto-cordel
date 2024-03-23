@@ -19,7 +19,7 @@ header {
 
 header > h1 {
     font-family: var(--fonte1);
-    font-size: 8.5vw;
+    font-size: 3em;
     padding-top: 50px;
     font-variant: small-caps;
 }
@@ -42,7 +42,7 @@ a:hover {
 
 section > p {
     font-family: var(--fonte2);
-    font-size: 3vw;
+    font-size: 1.2em;
     margin: 50px 15px;
     line-height: 2em;
 }
